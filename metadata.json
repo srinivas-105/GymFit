@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FitGenius AI",
+  "description": "An AI-powered fitness and nutrition coach that generates personalized weekly workout and meal plans. It also features a real-time camera-based form tracker to provide feedback on your exercises and a progress tracker to monitor your journey.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
